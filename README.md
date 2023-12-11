@@ -2,7 +2,7 @@ ACOUSTIC MODELER
 
 Allows the user to import sound files and displays information about its waveform, frequencies, and resonance. If you want to observe how different properties of sound interact, this is your module.
 
-
+----------
 
 BUTTONS
 
@@ -12,7 +12,7 @@ LOW/MID/HIGH - Changes the RT60 graph between low (~200 Hz), mid (~1000 Hz), and
 
 SPLIT/MERGED - Changes whether the RT60 graphs display seperately or together.
 
-
+----------
 
 OTHER INFORMATION
 
