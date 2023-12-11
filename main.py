@@ -9,6 +9,7 @@ class App(tk.Tk):
         super().__init__()
 
         self.title('Acoustics Modeler')
+        self.geometry('1350x300')
 
         # create a model
         model = Model('default.wav')
